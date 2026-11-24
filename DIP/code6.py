@@ -2,7 +2,7 @@
 
 import cv2
 
-image=cv2.imread(r'C:\Users\SOUVIK MANNA\5th SEM\DIP\image2.jpeg')
+image=cv2.imread('image2.jpeg')
 
 #check if image is loaded
 if image is None:
